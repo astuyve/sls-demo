@@ -12,7 +12,7 @@
 # Happy Coding!
 
 service: v1-providers
-app: v1-app
+app: v1-demo
 org: providers
 
 # You can pin your service to only deploy with a specific Serverless version
